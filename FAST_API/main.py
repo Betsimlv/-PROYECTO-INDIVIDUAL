@@ -4,7 +4,7 @@ import pandas as pd
 
 
 app = FastAPI()
-new_data = pd.read_csv("FAST_API/new_data.csv")
+new_data = pd.read_csv("./new_data.csv")
 
 @app.get('/peliculas_idioma/{idioma}')
 def peliculas_idioma(idioma):
