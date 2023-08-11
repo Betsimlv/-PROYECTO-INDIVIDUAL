@@ -1,0 +1,2 @@
+# -PROYECTO-INDIVIDUAL
+Proyecto de MLOps
