@@ -31,3 +31,5 @@ Para lo anterior, se utilizó el modelo BERT (Bidirectional Encoder Representati
 En el caso de este proyecto, una de las razones por las que se utilizó el modelo BERT fue que su capacidad de procesamiento fue más rápida y no consumió tantos recursos de almacenamiento en comparación a otros modelos como Count-Vectorizer o TF-IDF. 
 
 Finalmente se implementó una FastAPI para hacer disponibles los datos a través de las funciones desarrolladas.
+
+#### Link FastAPI; https://projects-oi5m.onrender.com/docs#/
